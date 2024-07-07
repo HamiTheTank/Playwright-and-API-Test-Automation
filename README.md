@@ -1,5 +1,5 @@
 # UI-Playwright-and-API-Test-Automation
-Test Automation Assessment Project 2024
+Test Automation Assessment Project 2024, implemented in C#
 
 ## UI Test Automation
 Implements an automated UI testing suite which is run against the https://www.saucedemo.com/ website. Three single scenarios were developed in C#, using Playwright and NUnit libraries. This is a standalone test framework which runs on its own and can be further expanded. The project is implemented in Page Object Model design pattern, resources and common methods are organized in separate classes.
