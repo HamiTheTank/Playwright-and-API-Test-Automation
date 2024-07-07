@@ -8,5 +8,5 @@ Implements an automated API testing suite which runs against https://reqres.in/ 
 
 ## Command Line
 To run the tests from command line, use the following commands for each project respectively:
-  dotnet test "UI Tests"
-  dotnet test "API Tests"
+  - dotnet test "UI Tests"
+  - dotnet test "API Tests"
